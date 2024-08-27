@@ -11,7 +11,7 @@ I'm an aspiring Software Engineer and A student of Altschool Africa in the Backe
 - 🌱 I’m currently learning JavaScript, CSS, and HTML.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailto:olujinathaniel332@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing olujinathaniel332@gmail.com.
 
 ---
 
